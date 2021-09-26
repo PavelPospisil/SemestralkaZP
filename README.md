@@ -1,1 +1,2 @@
 # SemestralkaZP
+Triple DES/TDES/3DES Blokové symetrické šifrování. Zastaralý šifrovací algoritmus DES (Data Encrypting Standart), který díky se díky trojnásobnému opakování mění na TripleDES, který je stále použitelný a disponuje obstojnou sílou zabezpečení. Velikost klíče je 168 bitů a blok zůstává ve standartní velikosti 64 bitů. Soubor se tak stává pro standartní software nečitelný a je možné šifrovat od txt souboru až po obrázkové soubory, či aplikace.
